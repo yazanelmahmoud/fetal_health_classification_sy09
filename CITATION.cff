@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Fetal Health Classification"
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: Abramov
+    given-names: Timofey
+  - family-names: El Mahmoud
+    given-names: Yazan
+  - family-names: Khessairi
+    given-names: Selima
+date-released: 2025-06-14
+license: MIT
+type: software
+repository-code: "https://github.com/<yazanelmahmoud>/fetal-health-classification-sy09"

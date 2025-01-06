@@ -1,0 +1,32 @@
+# LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.toc
+*.synctex.gz
+paper/src/_minted*/
+poster/src/_minted*/
+
+# PDFs (built elsewhere)
+*.pdf
+!paper/paper.pdf
+!poster/poster.pdf
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# Data (keep folder, ignore files)
+data/*
+!data/README.md

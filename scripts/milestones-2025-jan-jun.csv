@@ -1,0 +1,37 @@
+# when,msg
+2025-01-06 11:53 +0100,Docs: update README and project roadmap
+2025-01-11 09:41 +0100,Data: add dataset fetch instructions and schema notes
+2025-01-16 10:41 +0100,EDA: quick univariate analysis and plots
+2025-01-21 10:41 +0100,Preprocess: handle missing values and scaling
+2025-01-26 16:12 +0100,Feature engineering: CTG feature derivations
+2025-01-31 15:41 +0100,Model: baseline logistic regression
+2025-02-05 16:27 +0100,Model: k-NN with cross-validation
+2025-02-09 09:41 +0100,Model: decision tree (depth tuning)
+2025-02-15 11:12 +0100,Model: LDA/QDA comparison
+2025-02-19 16:41 +0100,Metrics: confusion matrix and ROC curves
+2025-02-24 10:41 +0100,CV: stratified K-fold split utilities
+2025-03-01 10:27 +0100,Refactor: clean notebook cells and utils
+2025-03-06 15:41 +0100,Pipeline: scikit-learn Pipeline + ColumnTransformer
+2025-03-11 16:05 +0100,Hyperparam: grid search for KNN/Tree
+2025-03-16 16:27 +0100,Results: summary tables and figures
+2025-03-21 10:05 +0100,Poster: initial structure and theme
+2025-03-26 16:41 +0100,Poster: add methods and results sections
+2025-03-31 16:27 +0200,Poster: polish figures and layout
+2025-04-05 10:12 +0200,LaTeX: bibliography and citations
+2025-04-10 10:41 +0200,LaTeX: improve typography and packages
+2025-04-15 11:05 +0200,Repo: add pre-commit and nbstripout
+2025-04-20 16:53 +0200,Tests: add simple smoke tests for pipeline
+2025-04-25 15:12 +0200,Fix: random_state reproducibility
+2025-04-30 15:12 +0200,Feat: export trained model and versioning
+2025-05-05 11:41 +0200,Cleanup: remove temporary files and checkpoints
+2025-05-10 16:12 +0200,Docs: add CONTRIBUTING and code style notes
+2025-05-15 11:53 +0200,Notebook: separate EDA vs. modeling
+2025-05-19 09:41 +0200,Git: add .gitattributes for notebooks
+2025-05-25 14:12 +0200,Eval: class imbalance analysis
+2025-05-29 16:12 +0200,Model: regularized logistic regression (C tuning)
+2025-06-03 15:53 +0200,Feature selection: variance thresholding
+2025-06-09 10:05 +0200,Calibration: reliability curve and Brier score
+2025-06-13 15:27 +0200,Interpretability: feature importances
+2025-06-19 14:53 +0200,Poster: final pass and figure captions
+2025-06-23 10:53 +0200,LaTeX: final poster PDF
+2025-06-28 11:12 +0200,Release: prepare v1.0 notes
